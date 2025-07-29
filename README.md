@@ -1,3 +1,5 @@
+![Pipeline](image.png)
+
 # Local RAG from Scratch
 
 This is my implementation of Retrieval Augmented Generation (RAG) that runs completely locally. I built it as a nutrition textbook chatbot that can answer questions based on a PDF textbook.
